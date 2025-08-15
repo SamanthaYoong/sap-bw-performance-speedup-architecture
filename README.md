@@ -7,7 +7,7 @@
 
 ---
 
-## TL;DR (Why this matters)
+## Why This Matters 
 - **Problem:** Large volumes + fragmented models slowed reports → decisions lagged by **4–5 business days**.  
 - **Goal:** **Speed + timeliness** — optimize BW models for **faster queries** and enable **near real-time** updates for critical KPIs.  
 - **Outcome:** <24h monthly close reporting, **2-hour** refresh for critical KPIs, **65%** runtime reduction, **0** Excel stitching.
