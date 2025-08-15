@@ -1,6 +1,6 @@
 # Optimizing Global Sales Reporting with SAP BW/4HANA for Faster Decision-Making
 
-**Candidate:** _[Your Name]_  
+**Candidate:** Samantha Yoong 
 **Role Applied:** Junior Business Intelligence Analyst – BW  
 **Industry:** Global B2B manufacturing & construction supply  
 **Duration:** 3 months  
